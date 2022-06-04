@@ -1,22 +1,3 @@
-# 使用 vite 创建项目：
-
-```
-npm init vite@latest <vue3demo> --template vue
-```
-
-# 启动项目
-
-`npm run dev`
-
-# 环境
-
-- `vscode`
-- `volar(Vue Language Features)` （vscode 的 vue3 开发支持插件）
-- `npm v6.14.11`
-- `node v12.21.0`
-- `chrome`
-- `Vue.js devtools`（chrome 的 vue3 调试插件）
-
 # Vue 3 + Vite
 
 This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
@@ -25,7 +6,28 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
 
-# Git 仓库名 vue3.2-vite-demo
+# 项目介绍：
+
+## 使用 vite 创建项目：
+
+```
+npm init vite@latest <vue3demo> --template vue
+```
+
+## 启动项目
+
+`npm run dev`
+
+## 环境
+
+- `vscode`
+- `volar(Vue Language Features)` （vscode 的 vue3 开发支持插件）
+- `npm v6.14.11`
+- `node v12.21.0`
+- `chrome`
+- `Vue.js devtools`（chrome 的 vue3 调试插件）
+
+## Git 仓库名 vue3.2-vite-demo
 
 ## First-demo: todo-list
 
