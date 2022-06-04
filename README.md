@@ -37,5 +37,6 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 2. 统计 done/all
 3. 全选 / 全不选
 4. 删除
-5. 动画：新增/删除 list 有移动动画
-6. 提示：新增时判断不能为空
+5. 提示：新增时判断不能为空
+6. 动画：新增/删除 list 有移动动画
+7. 动画：删除时飞入垃圾桶效果（待实现...）
